@@ -8,5 +8,6 @@ package frc.robot;
 public final class Constants {
 
     public static final int kLimitSwitchPort = 0;
+    public static final int kColorSensorPort = 0;
 
 }
